@@ -13,4 +13,110 @@ body {
     font-optical-sizing: auto;
     font-weight: <weight>;
     font-style: normal;
+    background-color: black;
 }
+
+
+.navbar {
+    background-color: transparent !important;
+    color: white;
+}
+
+.bg-interno {
+    background-color: #2ed3ec;
+    
+}
+
+.h1 {
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 400;
+}
+
+.container_header {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.carousel-item {
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.container_h1 {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.hr_linea {
+    background-color: #2ed3ec;
+    height: 0.2em;
+}
+
+.card0 {
+    background-color: black;
+}
+
+.card-body01 {
+    background-color: #2ed3ec;
+    padding: 0;
+}
+
+.fa-iconos {
+    font-size: 2em;
+    color: #fff;
+}
+
+.card-body02 {
+    background-color: black;
+    color: white;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+
+}
+
+.card-body00 {
+    background-color: white;
+    ;
+    margin-top: 1.5em;
+}
+
+.card-body03 {
+    background-color: #2ed3ec;
+    color: white;
+    text-align: left;
+    height: 17em;
+    padding: 0.5em;
+
+}
+
+.card-imagen {
+    height: 140px;
+}
+
+
+.page-footer {
+    background-color: #2ed3ec;
+}
+
+footer {
+    color: white;
+    font-weight: bold;
+    background-color: #2ed3ec;
+    font-size: 400;
+    position: absolute;
+    width: 100%;
+    padding: 2px
+}
+
+.btn {
+    width: 100px;
+    color: white;
+    margin: 5px;
+    padding: 10px;
+    background-color: #2ed3ec;
+}
+
