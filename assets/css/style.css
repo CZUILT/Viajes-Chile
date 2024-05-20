@@ -24,7 +24,7 @@ body {
 
 .bg-interno {
     background-color: #2ed3ec;
-    
+
 }
 
 .h1 {
@@ -64,18 +64,12 @@ body {
     padding: 0;
 }
 
-.fa-iconos {
-    font-size: 2em;
-    color: #fff;
-}
-
 .card-body02 {
     background-color: black;
     color: white;
     padding: 0;
     margin: 0;
     text-align: left;
-
 }
 
 .card-body00 {
@@ -120,3 +114,4 @@ footer {
     background-color: #2ed3ec;
 }
 
+footer .btn {size: 100px;}
